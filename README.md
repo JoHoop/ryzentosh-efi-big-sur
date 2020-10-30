@@ -1,3 +1,5 @@
+_EFI folder for Ryzentosh installation_
+
 ![Screenshot](/screenshot.png?raw=true)
 
 **macOS Big Sur**: Version 11 Beta (20A5395g)
