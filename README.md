@@ -24,7 +24,7 @@ Then follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.gi
 ## Working
 - Wifi, Bluetooth, Ethernet
 - iMessage, iCloud, Facetime, App Store
-- Airdrop, Airplay, Handoff, Sidecar
+- Airdrop, Airplay, AirPods Handoff, Sidecar
 - All USB ports
 
 ## Not working
