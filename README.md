@@ -13,6 +13,7 @@ based on [Dortania's OpenCore Guide](https://dortania.github.io/OpenCore-Install
 | GPU           | Gigabyte Radeon RX 580 Gaming 8G           |
 | RAM           | 32 GB G.Skill Trident Z Neo DDR4 @ 3600MHz |
 | SSD           | 1 TB Corsair Force Series MP600 Gen.4 PCIe |
+| WIFI, BT      | Apple Broadcom BCM94360CD Wifi Bluetooth 4.0 |
 
 ## Installation
 
@@ -20,3 +21,11 @@ Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for generating your SMBIO
 
 Then follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#installation).
 
+## Working
+- Wifi, Bluetooth, Ethernet
+- iMessage, iCloud, Facetime, App Store
+- Airdrop, Airplay, Handoff, Sidecar
+- All USB ports
+
+## Not working
+- Unlock with Apple Watch
