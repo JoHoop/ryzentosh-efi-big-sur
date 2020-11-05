@@ -19,7 +19,7 @@ based on [Dortania's OpenCore Guide](https://dortania.github.io/OpenCore-Install
 
 Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for generating your SMBIOS data.
 
-Then follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#installation).
+Then follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#table-of-contents).
 
 ## Working
 - Wifi, Bluetooth, Ethernet
