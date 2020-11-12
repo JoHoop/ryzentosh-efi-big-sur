@@ -28,4 +28,4 @@ Then follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.gi
 - All USB ports
 
 ## Not working
-- Unlock with Apple Watch
+- Unlock with Apple Watch (but is unrelated as it doesn't work on my MacBook Air as well)
