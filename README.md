@@ -1,4 +1,4 @@
-# EFI folder for Ryzentosh installation
+# EFI folder for Ryzentosh installation (macOS Big Sur Version 11.0.1)
 
 based on [Dortania's OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point).
 
@@ -28,4 +28,4 @@ Then follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.gi
 - All USB ports
 
 ## Not working
-- Unlock with Apple Watch (but is unrelated as it doesn't work on my MacBook Air as well)
+- Unlock with Apple Watch (probably unrelated as it doesn't work on my MacBook Air as well)
