@@ -26,6 +26,4 @@ Then follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.gi
 - iMessage, iCloud, Facetime, App Store
 - Airdrop, Airplay, AirPods Handoff, Sidecar
 - All USB ports
-
-## Not working
-- Unlock with Apple Watch (probably unrelated as it doesn't work on my MacBook Air as well)
+- Authenticate with Apple Watch
