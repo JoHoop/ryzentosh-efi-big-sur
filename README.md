@@ -17,9 +17,11 @@ based on [Dortania's OpenCore Guide](https://dortania.github.io/OpenCore-Install
 
 ## Installation
 
-Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your SMBIOS data.
+Create the [macOS installer](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#downloading-macos-modern-os)
 
-Then follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#table-of-contents).
+Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your SMBIOS data for your `config.plist`.
+
+Follow [Dortania's OpenCore Big Sur Installation Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#table-of-contents).
 
 ## Working
 
