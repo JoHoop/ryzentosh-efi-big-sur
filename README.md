@@ -1,4 +1,4 @@
-# EFI folder for Ryzentosh installation (macOS Big Sur Version 11.0.1)
+# EFI folder for Ryzentosh installation (macOS Big Sur Version 11.1)
 
 based on [Dortania's OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point).
 
